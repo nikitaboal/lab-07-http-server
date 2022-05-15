@@ -1,3 +1,5 @@
+// Copyright 2021 Your Name <your_email>
+
 #ifndef INCLUDE_PROCESSING_REQUEST_HPP_
 #define INCLUDE_PROCESSING_REQUEST_HPP_
 
